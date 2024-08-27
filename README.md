@@ -7,11 +7,10 @@ FlutterBlog is a mobile application designed to empower users to create, share, 
 
 Here i atached som Screenshots of my BlogApp.
 
-![WhatsApp Image 2024-08-27 at 10 23 28_39038caf](https://github.com/user-attachments/assets/4b5a2d9e-3638-4fca-aaba-3e1dad7ebb9b)
-![WhatsApp Image 2024-08-27 at 10 24 51_de4be4c6](https://github.com/user-attachments/assets/7fa763b5-12d0-4eae-9c91-f1c0ee4b6a9f)
-![WhatsApp Image 2024-08-27 at 10 23 29_2e7194ac](https://github.com/user-attachments/assets/2580904d-fcbe-49ac-a99e-03b410193c9b)
-![WhatsApp Image 2024-08-27 at 10 23 29_2cd21442](https://github.com/user-attachments/assets/1450f89c-fe69-4475-bba9-15e03a4d160e)
-![WhatsApp Image 2024-08-27 at 10 23 30_a81258ce](https://github.com/user-attachments/assets/19fee12e-4307-4f43-a01c-688fa89ece0f)
+![WhatsApp Image 2024-08-27 at 10 24 51_de4be4c6](https://github.com/user-attachments/assets/7fa763b5-12d0-4eae-9c91-f1c0ee4b6a9f)  Main Page
+![WhatsApp Image 2024-08-27 at 10 23 29_2e7194ac](https://github.com/user-attachments/assets/2580904d-fcbe-49ac-a99e-03b410193c9b)  User Login
+![WhatsApp Image 2024-08-27 at 10 23 29_2cd21442](https://github.com/user-attachments/assets/1450f89c-fe69-4475-bba9-15e03a4d160e)  User Register
+![WhatsApp Image 2024-08-27 at 10 23 30_a81258ce](https://github.com/user-attachments/assets/19fee12e-4307-4f43-a01c-688fa89ece0f)  User Home Page
 ![WhatsApp Image 2024-08-27 at 10 23 32_a951db13](https://github.com/user-attachments/assets/b8bfdb8e-c1c1-4697-a9bd-7f3a4e023f74)
 ![WhatsApp Image 2024-08-27 at 10 23 32_73a102be](https://github.com/user-attachments/assets/72238029-890a-42a7-8b24-6731323703fd)
 ![WhatsApp Image 2024-08-27 at 10 23 33_f00a3cfa](https://github.com/user-attachments/assets/1ea95ee1-f85a-4422-884d-b61d3d67b2d1)
